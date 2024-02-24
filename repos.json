@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "pdx206_elixir_ksu",
+      "repo": "https://github.com/ahnet-69/kernel_sony_sm8250",
+      "branch": "fourteen",
+      "device": "pdx206"
     },
     "withKernelSU": true,
     "toolchains": [
